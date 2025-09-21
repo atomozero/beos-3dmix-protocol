@@ -33,7 +33,7 @@ This repository contains the most comprehensive reverse engineering documentatio
 
 ### Complete Analysis
 - 🇬🇧 **[English Documentation](3dmix_protocol_analysis.md)** - Complete technical analysis
-- 🇮🇹 **[Italian Documentation](3dmix_analisi.md)** - Analisi tecnica completa
+- 🇮🇹 **[Italian Documentation](3dmix_analisi_protocollo.md)** - Analisi tecnica completa
 
 ### Quick Reference
 - **File Format**: Binary files with "MAST" magic header
