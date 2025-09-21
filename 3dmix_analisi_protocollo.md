@@ -310,7 +310,7 @@ Il formato utilizza il sistema nativo BMessage di BeOS per serializzare **ogni a
 └── {project-name}-samples/   # Sample originali organizzati
 ```
 
-## Implementazione Parser Completo per VeniceDAW
+## Implementazione Parser Completo per Applicazioni Audio Moderne
 
 ### Strutture Dati Complete
 
